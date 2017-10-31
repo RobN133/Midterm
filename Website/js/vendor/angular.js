@@ -22183,7 +22183,7 @@ function sliceFn(input, begin, end) {
  * @example
  * ### Changing parameters dynamically
  *
- * All parameters can be changed dynamically. The next example shows how you can make the columns of
+ * All parameters can be changed dynamically. The next example shows how you can make the cell of
  * a table sortable, by binding the `expression` and `reverse` parameters to scope properties.
  *
    <example name="orderBy-dynamic" module="orderByExample2">
